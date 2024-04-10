@@ -5,6 +5,7 @@ Instructions on how to execute
 1. Need to create a sample CSV file with the provided data and test batch aggregation job with it.
 
 Save file with name sample_data.csv:
+
 metric,value,timestamp
 temperature,88,2022-06-04T12:01:00.000Z
 temperature,89,2022-06-04T12:01:30.000Z
