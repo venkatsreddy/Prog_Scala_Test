@@ -4,7 +4,7 @@
 
 - Save file with name sample_data.csv:
 
-metric|value|timestamp
+metric | value | timestamp
 -- temperature,88,2022-06-04T12:01:00.000Z
 -- temperature,89,2022-06-04T12:01:30.000Z
 -- precipitation,0.5,2022-06-04T14:23:32.000Z  
